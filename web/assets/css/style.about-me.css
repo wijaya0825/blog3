@@ -1,12 +1,12 @@
 /* Content */
 .content{
-    width: 400px;
+    width: 340px;
     margin: 0 auto;
   }
   
   .coltwo{
     float: left;
-    width: 198px;
+    width: 160px;
   }
   
   .coltwo ul{
@@ -31,7 +31,7 @@
 
   .coltwo2{
     float: right;
-    width: 185px;
+    width: 150px;
   }
 
   .coltwo2 ul{
