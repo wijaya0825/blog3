@@ -1,0 +1,95 @@
+h1, h2, h3, h4, h5, h6{
+    color: #000000;
+}
+
+/* Content */
+.content{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.colone{
+    float: right;
+    width: 470px;
+}
+
+.colone .title{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #b9becc;
+    font-size: 1.6em;
+}
+
+.colone .posted, .colone .meta{
+    margin: 0;
+    text-align: right;
+    font-size: xx-small;
+}
+
+.colone .posted{
+    margin-top: -13px;
+}
+
+.colone .meta{
+    border-top: 1px solid #b9c3cc;
+}
+
+.coltwo{
+    float: left;
+    width: 200px;
+}
+
+.coltwo #textfield1{
+    width: 170px;
+}
+
+.coltwo #submit1{
+    display: none;
+}
+
+.coltwo ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.coltwo li h2{
+    margin: 0;
+    padding: 0;
+    line-height: 100%;
+}
+
+.coltwo li h2 span{
+    margin: 0;
+    padding: 5px 10px;
+    background: #4fbeff;
+    border-bottom: none;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.coltwo li ul, .coltwo li form{
+    margin: 0 0 10px 0;
+    padding: 10px;
+    border: 1px solid #4fbeff;
+}
+
+/* Foter */
+.footer{
+    width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+    border-top: 1px solid #b9c4cc;
+}
+
+.footer p{
+    font-size: xx-small;
+}
+
+.backgroud{
+    background-color: #fff;
+}
+.tengah{
+    text-align: center;
+}
+
