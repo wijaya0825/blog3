@@ -1,12 +1,12 @@
 /* Content */
 .content{
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
   }
   
   .coltwo{
     float: left;
-    width: 210px;
+    width: 198px;
   }
   
   .coltwo ul{
@@ -25,13 +25,13 @@
   
   .coltwo li ul, .coltwo li form{
     margin: 0 0 10px 0;
-    padding: 17.5px;
+    padding: 15.5px;
     border: 1px solid #4fbeff;
   }
 
   .coltwo2{
     float: right;
-    width: 245px;
+    width: 185px;
   }
 
   .coltwo2 ul{
